@@ -1,0 +1,5 @@
+# 1. Unzip and enter the folder
+unzip hellommtc-crm.zip && cd hellommtc-crm
+
+# 2. Make the script executable and run it
+chmod +x deploy.sh && ./deploy.sh
